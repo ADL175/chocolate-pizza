@@ -17,8 +17,13 @@
 
 }
 
-#paragraph-info {
+#stockphoto {
+  margin: 0, auto;
+  text-align: center;
+}
 
+#paragraph-info {
+  margin: 0 auto;
 }
 
 .checklist{
@@ -50,7 +55,6 @@
 #header2 {
   font-family: impact, 'PT Sans', sans-serif;
   font-size: 33px;
-  padding-bottom: 10px;
 }
 
 #smallheader {
@@ -69,7 +73,7 @@
   text-decoration: line-through;
 }
 
-.socialbuttons {
+#socialbuttons {
   float: right;
 }
 
