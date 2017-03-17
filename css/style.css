@@ -1,0 +1,148 @@
+
+
+* {
+
+}
+
+#delicious-logo {
+  font-size: 40px;
+  font-family: 'Lobster', cursive;
+}
+
+#section {
+
+}
+
+#span {
+
+}
+
+#stockphoto {
+  margin: 0, auto;
+  text-align: center;
+}
+
+#paragraph-info {
+  margin: 0 auto;
+}
+
+.checklist{
+  cursor: pointer;
+  text-decoration: none;
+}
+
+#author{
+
+}
+
+#left-checklist {
+  float: left;
+  width: 500px;
+}
+#right-checklist {
+  float: left;
+  width: 500px;
+}
+
+#share{
+
+}
+
+#header {
+
+}
+
+#header2 {
+  font-family: impact, 'PT Sans', sans-serif;
+  font-size: 33px;
+}
+
+#smallheader {
+
+}
+
+#checklist-bro {
+  background-image: url("../assets/list-bg.png");
+  column-count: 2;
+  margin: auto;
+  box-shadow: 0px 0px 10px #555555;
+
+}
+
+.checklist + span {
+  text-decoration: line-through;
+}
+
+#socialbuttons {
+  float: right;
+}
+
+hr {
+  color: gray;
+background-color: gray;
+height: 5px;
+}
+
+body {
+width: 72%;
+margin: 0 auto;
+}
+
+span {
+
+}
+
+h1 {
+font-size: 10px;
+}
+
+h2{
+
+}
+
+section{
+
+}
+
+time {
+
+}
+
+button {
+  float: right;
+  background-color: #f44336; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+
+div{
+  text-align: left;
+}
+
+p {
+  color: #888888
+}
+
+li {
+
+}
+
+ul {
+  list-style: none;
+  font-family: 'Indie Flower', cursive;
+}
+
+a {
+  text-decoration: none;
+}
+
+footer, time, a {
+  text-align: center;
+  color: gray;
+  margin: auto;
+}
